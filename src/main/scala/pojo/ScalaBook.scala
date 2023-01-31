@@ -1,3 +1,5 @@
+package pojo
+
 /**
  * 子类继承父累
  * Scala类层次结构的根是Any

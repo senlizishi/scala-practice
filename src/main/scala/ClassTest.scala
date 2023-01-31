@@ -1,3 +1,5 @@
+import pojo.{Book, ScalaBook}
+
 /**
  * 类
  *
